@@ -6,3 +6,11 @@ C:\Users\Daniel\source\repos\MenuExercicio\MenuExercicio\obj\Debug\MenuExercicio
 C:\Users\Daniel\source\repos\MenuExercicio\MenuExercicio\obj\Debug\MenuExercicio.csproj.CoreCompileInputs.cache
 C:\Users\Daniel\source\repos\MenuExercicio\MenuExercicio\obj\Debug\MenuExercicio.exe
 C:\Users\Daniel\source\repos\MenuExercicio\MenuExercicio\obj\Debug\MenuExercicio.pdb
+C:\Users\Daniel\Documents\GitHub\Menu_de_Exercicios\MenuExercicio\obj\Debug\MenuExercicio.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\Menu_de_Exercicios\MenuExercicio\obj\Debug\MenuExercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Documents\GitHub\Menu_de_Exercicios\MenuExercicio\obj\Debug\MenuExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\GitHub\Menu_de_Exercicios\MenuExercicio\obj\Debug\MenuExercicio.exe
+C:\Users\Daniel\Documents\GitHub\Menu_de_Exercicios\MenuExercicio\obj\Debug\MenuExercicio.pdb
+C:\Users\Daniel\Documents\GitHub\Menu_de_Exercicios\MenuExercicio\bin\Debug\MenuExercicio.exe.config
+C:\Users\Daniel\Documents\GitHub\Menu_de_Exercicios\MenuExercicio\bin\Debug\MenuExercicio.exe
+C:\Users\Daniel\Documents\GitHub\Menu_de_Exercicios\MenuExercicio\bin\Debug\MenuExercicio.pdb
